@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By his Highnes [sic] council in Scotland, for the government thereof: Instructions for the Justices of the Peace in Scotland.</title>
+            <author>Scotland. Convention of Estates.</author>
+         </titleStmt>
+         <extent>Approx. 43KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05145</idno><idno type="EEBO-CITATION">52614912</idno>
+  <idno type="VID">176078</idno>
+  <idno type="EEBO-PROQUEST">2240862549</idno>
+  
+            <idno type="STC">Wing S1016B</idno>
+            <idno type="STC">ESTC R183834</idno>
+            <idno type="OCLC">52614912</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05145)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176078)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2761:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By his Highnes [sic] council in Scotland, for the government thereof: Instructions for the Justices of the Peace in Scotland.</title>
+                  <author>Scotland. Convention of Estates.</author>
+               </titleStmt>
+               <extent>26 p.   </extent>
+               <publicationStmt>
+                  <publisher>by Iames Brown,</publisher>
+                  <pubPlace>Printed at Edinburgh, ;</pubPlace>
+                  <pubPlace>and reprinted at Aberdene, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Signed at end: Emanual Downing, Cl. of the Council.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Justices of the peace --  Law and legislation --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176078:1"/>
+            <pb facs="tcp:176078:1"/>
+            <pb facs="tcp:176078:2"/>
+            <pb facs="tcp:176078:2"/>
+            <p>BY HIS HIGHNES COUNCILL IN <hi>SCOTLAND,</hi> For the GOVERNMENT thereof: INSTRUCTIONS FOR THE JUSTICES of Peace IN <hi>SCOTLAND.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Moonday <hi>the Twelf</hi> day <hi>of</hi> November, 1655.</date>
+                           </dateline>
+                        </opener>
+                        <p>At His Highnesse Councill in Edinburgh, ORdered, That these Instructions for the Iustices of Peace be forth-with Printed and Published.</p>
+                        <closer>
+                           <signed>EMANUELL DOWNING, <hi>Cl. of the Councill.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>PRINTED at <hi>Edinburgh,</hi> and Reprinted at <hi>Aberdene,</hi> by IAMES BROWN, 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:176078:3"/>
+            <pb n="3" facs="tcp:176078:3"/>
+            <head>BY HIS HIGHNES COUNCILL IN <hi>SCOTLAND,</hi> For the Government thereof: INSTRUCTIONS for the Iustices of Peace in <hi>SCOTLAND.</hi>
+            </head>
+            <p n="1">1 <seg rend="decorInit">T</seg>HE Commissioners and Iustices of the Peace shal take the Oath following: You shall sweare, <hi>That you as one of the Com<g ref="char:EOLhyphen"/>missioners and Iustices of his Highnesse the Lord Protectors Peace within the Shire of according to your knowledge and power, shall do equall right both to Rich and Poor; And that you shall not bee of Counsel with any person in any quarrell or matter de<g ref="char:EOLhyphen"/>pending before you, and shall faithfullie &amp; truely discharge your duty as a Iustice of Peace; and shall endeavour, according to your power, the preservation of the said Peace; And that you take nothing for your office of Iustice of the Peace, but what is, or shal be by the Law allowed.</hi>
+            </p>
+            <p n="2">2. That no Person shall execute the Office of Iustice of Peace, untill he hath taken the Oath beforementioned, be<g ref="char:EOLhyphen"/>fore the Sheriff of the Shire, or before two Iustices of the
+<pb n="4" facs="tcp:176078:4"/> Peace who haue taken the same who haue hereby power to administer the said Oath to all other Iustices, who haue not taken it, within the respective Shires, at there respective admissions.</p>
+            <p n="3">3. That the said Iustices shall begin their Quarter-Ses<g ref="char:EOLhyphen"/>sions at the times of the Year following viz. The first <hi>Tuesday</hi> in the month of <hi>February,</hi> The first <hi>Tuesday</hi> in the month of <hi>May,</hi> The first <hi>Tuesday</hi> in the month of <hi>Au<g ref="char:EOLhyphen"/>gust,</hi> The last <hi>Tuesday</hi> in the month of <hi>October;</hi> At such places as shall be agreed on by the greater number of them, or (in default thereof) by the appointement of the <hi>Custos Rotulorum</hi> in the respective Counties And shall haue pow<g ref="char:EOLhyphen"/>er to continue the said Sessions, or to adjourn the same to such dayes and places as shall be for the better Administra<g ref="char:EOLhyphen"/>tion of Iustice and most ease to the People.</p>
+            <p n="4">4. Any one Iustice shall have power upon complaint of of any person being threatned, and fearing to be wronged, to bind the party complained upon, under such a pecuniall sum to keepe the peace, as he shall think fitting; As also to cōmitt such person to safe custody, untill Surety be found by him; the said Complainer alwayes giving his Oath be<g ref="char:EOLhyphen"/>fore the Iustice, That he hath just cause to dread his harm: And albeit no person complain, yet if the justice be credib<g ref="char:EOLhyphen"/>lie informed of appearance of trouble betwext any parties, he shall bind them to the peace in manner aforesaid, except the parties declare upon their consciences, that neither of thē doth bear any grudge to the other: And all such Bonds or recognizances shalbe kept in record by him, and he shal make delivery of the same to the Clerk of the Peace at the next Sessions, to be kept and registred by him.</p>
+            <p n="5">5. If any person being charged to make his appearance
+<pb n="5" facs="tcp:176078:4"/> before a Iustice or Iustices of Peace, and shall refuse or delay without just cause, thē the Iustice, or Iustices, whose Command shall be contemned, shall hereby haue power to Command the next Constable, or in absence of a Constable his, or their owne servant, or any other person having a Warrant in writ, subscrived by the said Iustice, or Iustices of Peace, with assistance of the Countrey, to bring any such person before him or them.</p>
+            <p n="6">6. If any Sheriff or Bailiff authorized in that behalf, shal condemn any person for a Battery, wherin blood is drawn, usually called <hi>Blood-Wight,</hi> or otherwise convict him in any pain proper for him to impose, the Iustice shall haue no power of new to fine that Offender for that offence; but if they shall find him not condignly punished in regard of the offence cōmitted by him, they shall then inform his High<g ref="char:EOLhyphen"/>nes Councill therof, that they may take order therein; And if ther be not satisfaction made by the Sheriff or Bailiff au<g ref="char:EOLhyphen"/>thorized, as aforesaid, to the Party offended, the Iusti<g ref="char:EOLhyphen"/>ces at the Sessions; may modifie &amp; order reasonable satis<g ref="char:EOLhyphen"/>faction to the Party offended, he pursuing therefore before them: And if they shall find the satisfaction ordered by the Sheriff or Bailiff, in favour of the said Party offended, not condign or answerable to the Offence &amp; wrong sustained, Then they shall also inform his Highnes Councill thereof, that they may take order therewith, as appertaineth.</p>
+            <p n="7">7. If any Sheriff or his Deputy or Deputies, by Collusiōs with the Delinquent, shall suffer any person guilty, to bee quitted or cleared by Iury or Assize, the party once, clea<g ref="char:EOLhyphen"/>red is not to be brought further in question before the Iu<g ref="char:EOLhyphen"/>stices, but upon their information the Sheriff, his Deputy or Deputies, respectively are to be called, censured, &amp; <gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>verely
+<pb n="6" facs="tcp:176078:5"/> punished by his Highnes Councill.</p>
+            <p n="8">8. The said Iustices shall hereby haue power to proceed upon all persons committing Ryots, &amp; breaking his High<g ref="char:EOLhyphen"/>nes Peace, and to punish and fine according to the quality of the Crime, and the estate of the Offender; and if any of the said persons being charg'd to appear before the said Iu<g ref="char:EOLhyphen"/>stices, shal disobey the Summons being endorsed, the law<g ref="char:EOLhyphen"/>full Scitation verified, and fact proved, The Iustice shall punish and fine the not-appearing, according to the quali<g ref="char:EOLhyphen"/>ty of the Crime, &amp; the estate of the Offender; And for the more clear determination of the Order, which shalbe kept by the said Iustices, in the deducing of any such Processe, It is declared, That it shalbe lawfull to the said Iustices, whensoever they may haue occasion to move any Actions against Parties for committing any like Fact or Ryot, to re<g ref="char:EOLhyphen"/>ferr the first Summons to the Parties Oaths of verity, in ease of want of other lawfull probation, who being perso<g ref="char:EOLhyphen"/>nally summoned by the first scitation, shal be holden as con<g ref="char:EOLhyphen"/>fessed, and decree to be pronunced against him, conformed to the Lybell &amp; Summons; And if he be not personly sū<g ref="char:EOLhyphen"/>moned by the first scitation, The said Iustices are to sum<g ref="char:EOLhyphen"/>mond him again by a second Summons at his dwelling-place; which two scitations shalbe as sufficient to inferr Decreet &amp; Sentence upon the Lybell against him, as if hee were apprehended personally: And which Sentence givē, after the manner and form of approbation above-writen, is declared to be good and lawfull in it selff.</p>
+            <p n="9">9. The said Commissioners of the Peace shall put the Lawes and Acts of Parliament to due and full execution against wilfull Beggers, and Vagabonds, and Idlemen and women, without calling or trade, lurking in Ale-houses,
+<pb n="7" facs="tcp:176078:5"/> tyed to no certain service, reputed &amp; holden as Vagabonds, and against those persons who ar commonly called <hi>Aegyp<g ref="char:EOLhyphen"/>tians,</hi> and they shall punish &amp; fine their Receptors, &amp; Set<g ref="char:EOLhyphen"/>ters of houses to them accordingly, by such competent pains as is proper to them to injoyn.</p>
+            <p n="10">10. The said Commissioners and Iustices of Peace, at hereby authorized, with power to give Order as they shall think most convenient, and with least charge to the Sub<g ref="char:EOLhyphen"/>jects, for mending all Bridges, High-wayes and Passages, to, or from any market Towne, or Sea Port, within their respective Shyres, <hi>videlicet.</hi> by laying a penalty upon the County, Parishes, or Persons respectvelie lyable according to the estimate they shall be informed the charges of the Bridges and High-wayes will amount unto, which penalty they are to levy &amp; dispose of for the repairing of the said Bridges, and High-wayes. And shall also call before them all such persons as shall straighten those High-wayes and Passages, or otherwise by casting of Ditches or any other Trenches through the same, shall make those High-ways noisome and trouble-some unto Passengers, and shal punish them, and fine them according to the quality of their offence; And to the effect it may be known of what breadth all Common High-ways should be to market Towns, It is declared, that the same should be of Twenty foot of measure in breadth, at the least, &amp; wher any are of larger breadth, it is ordained, the same so to re<g ref="char:EOLhyphen"/>maine unaltered or straightned; And that the said Iustices, cause the same to be mantained, with all other wayes from any Town in the Parish, to the Parish Churches, in the same breadth as they are, and where they find any neces<g ref="char:EOLhyphen"/>sity of other wayes from any Town in the Parish, to Parish
+<pb n="8" facs="tcp:176078:6"/> Churches, they shall inform his Highnes Council thereof who shall give them, after sufficient Information their di<g ref="char:EOLhyphen"/>rection therein, according whereunto they shal be holden to proceed; and if any County, Parish, or person to whom it belongs as aforesaid, shal refuse or neglect to concurr for mending of Bridges, High-wayes, &amp; Passages, The said Iustices shall haue Power to cēsure and punish them accor<g ref="char:EOLhyphen"/>ding to their discretion, due regard being had to the qua<g ref="char:EOLhyphen"/>lity and nature of the offence; also they are to take care, that sufficient Fery Boats, and Bridges for Horses within the same where Horses ought to be Ferried, be provyded and keept in repaire by the Ferrier, upon the penalty by the Acts of Parliament in that case provided upō the Ferrier, who shall neglect to do the same.</p>
+            <p n="11">11. The said commissioners for the Peace, shall put the Acts of Parliament to execution against Cutters and de<g ref="char:EOLhyphen"/>stroyers of Planting, Green-wood, Orchards. Yards, Hed<g ref="char:EOLhyphen"/>gings, breakers of Dove-houses, killers of Deer, &amp; tres<g ref="char:EOLhyphen"/>passers in Parks, and Counigers, stealers of Bees, and Bee<g ref="char:EOLhyphen"/>hives; users of unlawfull Games with setting Dogs, slayers of red and black Fish, and Smolts in forbidden time, Fow<g ref="char:EOLhyphen"/>lers, fowling in other mens Lands, makers of Moor-burn, and Mos-burn, setters of Crewes, or Nets, in Waters and Dames, having and keeping of Crewes &amp; Yares in forbid<g ref="char:EOLhyphen"/>den time, and shall proceed against them accordingly; And for their better proceedings, It is declared the said Iustices of Peace may try &amp; punish the violaters of the said Acts, in the tryall whereof, they shall proceed, by witnesses, by Oath of Party &amp; punishment to be inflicted by them, accor<g ref="char:EOLhyphen"/>ding to the circumstance of the Offence, and the quality of the Offender, by a pecunial sum or corporall punishment,
+<pb n="9" facs="tcp:176078:6"/> and no other, with the provision; That the said Commis<g ref="char:EOLhyphen"/>sioners of the Peace, shall not extend this power power to any persons who shall be arrested, and convened for the said Crimes, before any other ordinary Iudge, it is also provy<g ref="char:EOLhyphen"/>ded, That the power contained in this Article, shall no wayes be prejudiciall to any Commissions, or Rights gran<g ref="char:EOLhyphen"/>ted to others, and now in force, whereby they haue power to proceed &amp; cēnsure the Crimes &amp; offences abovewritten.</p>
+            <p n="12">12. The said Commissioners of the Peace shall put in execution the Acts of Parliament for punishing all Fore<g ref="char:EOLhyphen"/>stallers, and Regraters of Markets.</p>
+            <p n="13">13. No In-keeper, or Hoastler, shall receive any Master<g ref="char:EOLhyphen"/>lesse Men, Vagabonds, or other person or persons guyltie of known Crimes, or using Stealth &amp; Robbery, under the pains underwritten, to wit, 40 <hi>S.</hi> to be incurred by them for the first fault, 4 <hi>l.</hi> for the second, and 10. <hi>Merks</hi> for the the third, Scots Money, together with the losing of the Liberty of Brewing and selling Drink, The incurrers of which pains shalbe punished according to the order afore<g ref="char:EOLhyphen"/>said, by the said Iustices, who shall have power to persue &amp; fine the Delinquents in their Courts or Sessions according to the pains aforesaid, and to levie or uplift the said pains and fines from them, without prejudice of all Actions Cri<g ref="char:EOLhyphen"/>minal or Civil, competent of the Law against the said In-keepers or Hoastlers, in case they be in the danger thereof, which shall not be taken away by any punishmēt set down, and to be inflicted, conform to this instruction.</p>
+            <p n="14">14. The said Commissioners of the Peace, shall put in execution the Lawes concerning Malt-makers, against all breakers and contraveners of the said Lawes.</p>
+            <p n="15">15. They shall set down order in the Countrey for Go<g ref="char:EOLhyphen"/>vernance
+<pb n="10" facs="tcp:176078:7"/> in time of Plague, &amp; shal punish severly the diso<g ref="char:EOLhyphen"/>beyers of the order appoynted by them, according to the quality of the offence.</p>
+            <p n="16">16 They shall appoynt at their Quarter Sessions, to be kept in <hi>February,</hi> and <hi>August,</hi> the ordinary hyre &amp; wages of Labourers, Work-men, and Servants, and who shall re<g ref="char:EOLhyphen"/>fuse to serve upon the price set down by them, shall be im<g ref="char:EOLhyphen"/>prisoned, and further punished at their discretion; And to the effect that Servants may be the more willing to obey the Ordinances to be made by the said Iustices, and the said Fees, or Wages, the said Iustices shall haue power to dis<g ref="char:EOLhyphen"/>cern, &amp; compell rhe Masters to make payment of the Fees, or Wages appointed by their Ordinance, in case the Ser<g ref="char:EOLhyphen"/>vants please rather to persue for the same before them then any other Iudge.</p>
+            <p n="17">17. The said Commissioners of the Peace, shall take notice, that in all Sheriffdoms where there are any Gaoles &amp; prison-houses within any Burgh, that the same may not be suffered to decay or become ruinous, but be kept up at the charge of the Shyre, where the respective Burgh is not chargeable therwith by Law; And if there be any Shire where there is not any Gaol or Prison-house, they shall in<g ref="char:EOLhyphen"/>form his Highnesse <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ouncil thereof, that they may appoint &amp; give order for building of one, in some convenient place within the Shyre; and according to the directions to bee given thereupon, the Iustices shall be holden to proceed.</p>
+            <p n="18">18. And because there may be a great many of Priso<g ref="char:EOLhyphen"/>ners apprehended and committed, who having no means of their own for their maintenance and entertainment, will otherwise famish and starve before they can come to their tryals, who nevertheless, in regard of the, Crimes they
+<pb n="11" facs="tcp:176078:7"/> have committed, can no wayes be put under Surety, or o<g ref="char:EOLhyphen"/>therwise in faults of lesse consequence, are unable to find sufficient Caution to be made forth coming &amp; answerable at the next Sessions; Therefore it shall be lawfull to the said Commissioners and Iustices, at their Quarter Session, to rate every Parish for a weekly proportion, for the enter<g ref="char:EOLhyphen"/>tainment of those poor Prisoners, Provided that they do not exceed the sum of five shillings scots mōey at the most, nor under One shilling at the least; which sum shall be rai<g ref="char:EOLhyphen"/>sed and up-lifted for that use, by the Minister, or Reader, who shall serve at every Parish, from such Deacons who shall be appointed to collect the same, And the said sums to be delivered by the Constable of the Parish at the Quarter-Sessions in presence of the whole Bench then convened, to such persons as the said Iustices shall trust therewith, and who accordingly shall make due accompt, in paying the Gaolers such rates as shall be allowed for the poore Priso<g ref="char:EOLhyphen"/>ners, and making the rest forth-coming for such use and in<g ref="char:EOLhyphen"/>tent of the like nature as the said Iustices shall appoint-</p>
+            <p n="19">19. All Magistrates of Burghs, and Keepers of any Gaols and Prisons, shall receive into their Prisons all such Persons as shall be brought by the Constables, or any other persons, having Warrant under the hand of any one Iustice of Peace (the said Iustices causing satisfaction to be made for their entertainments:) And if any Magistrates, or their Gaolors, suffer any persons, committed by the Iustices to their prisons, to escape, they shall be condignly punished therefore, at the discretion of his Highnesse Councill.</p>
+            <p n="20">20. The said Commissioners are to set a Price upon Craftsmens work, and upon the Ordinary of Peny-Bridals, together with the price of Shearers Fees, and to punish the
+<pb n="12" facs="tcp:176078:8"/> Contraveners, as appertaineth.</p>
+            <p n="21">21. The said Iustices sball take care, That good and wholsom Beer and Ale be brewed in every Shire, and shall appoint Visiters to that effect.</p>
+            <p n="22">22. The said Iustices shall put in execution, all Acts of Parliament, made for punishing all persons whomsoever, who shall Curse, or profainly Swear, or shall be Mockers &amp; Reproachers of Piety, or the Exercise therof, and shall re<g ref="char:EOLhyphen"/>quire &amp; levy upon every Offender the several Penalties fol<g ref="char:EOLhyphen"/>lowing; viz. Of a Nobleman, 20. pounds; each Baron, 20. merks; each Gentlemā heritor, or Burgesse, Ten marks; eaeh Yeoman 40. shillings; each Servant, 20. shillings Scots mo<g ref="char:EOLhyphen"/>ney; each Minister the Fifth part of their Years Stipend, without prejudice to other Proceedings against any such Minister for the same. And in any of all the Cases before specified in this Instruction, the said Iustices shall then put in execution all such Laws, as for corporall punishments, have any provision mentioned in them for such Cases: And in case of the Inabilities of the parties Delinquents, to pay the fore-mentioned Penalties in any of all the Cases before mentioned in this Instruction: The said Iustices shall put in execution (as for corporall punishments) such Acts of Par<g ref="char:EOLhyphen"/>liament as are made and provided in that behalf: And that the Wives Delinquents, as aforesaid, shall be punished ac<g ref="char:EOLhyphen"/>cording to the quality of their respective Husbands, And that their Husbands be liable for payment of their Wives Fines respectively in manner above mentioned, <hi>toties quoties</hi> for each fault: And all others whatever, not particularly herein enumerated, are to pay in proportion to their respec<g ref="char:EOLhyphen"/>tive qualities and degrees. And also the said justices are to put in execution the Acts of Parliament, made for the pu<g ref="char:EOLhyphen"/>nishing
+<pb n="13" facs="tcp:176078:8"/> of all persons that shall be found guilty of the sin of Fornication, and shall levy, or cause to be levied the several pecuniall Sums therein mentioned, <hi>viz.</hi> For each Noble<g ref="char:EOLhyphen"/>man for the first Fault, Four hundred pounds, each Baron and Landed-Genteleman, Two hundred pounds; each o<g ref="char:EOLhyphen"/>ther Gentleman and Burges One hundred pounds, each Far<g ref="char:EOLhyphen"/>mer Twenty five pounds; every other Person of inferior quality Ten pounds Scots money; and these penalties shall be doubled, <hi>toties quoiies,</hi> according to the Relapses of the degrees of the offence, and quality of the Offenders; And that the said Penalties shall be levyed, not only of the man, but also of the Woman, according to her quality, and the degree of her offence, the one without prejudice of the o<g ref="char:EOLhyphen"/>ther: All &amp; sundry which penalties so to be levyed, are to be disposed of as followeth; to wit, One half to pious uses in the same Parish where the Offender lives, or the offence hath beene committed; and the other half to be divided in<g ref="char:EOLhyphen"/>to two equall parts, one part whereof to be given to the In<g ref="char:EOLhyphen"/>former and Prosecutor, and (out of the other half) to satis<g ref="char:EOLhyphen"/>fie the Constable or other Person, who shall be imployed for bringing the Party accused to Iustice; &amp; the remainder to be disposed of to Pious uses, or towards satisfying of the Constabls for their travels &amp; services in other parts of their Office, according as the justices shall think fit. That the said justices shall put the acts of Parliament in execution, for the punishing of all persons found guilty of the sin of Drunken<g ref="char:EOLhyphen"/>nesse, or Excessive Drinking, especially under the name of Healths, or of haunting Taverns or Alehouses after ten of the clock at night, or at any time of the day, except in time of travell or for ordinary refreshments; As also against the keepers of Taverns or Ale-houses that shall sell the Drink
+<pb n="14" facs="tcp:176078:9"/> unto them, which Penalties in the said severall Acts con<g ref="char:EOLhyphen"/>tained, the said justices are to levy, or cause to be levied up<g ref="char:EOLhyphen"/>on the said Delinquents; and the said penalties are to be dis<g ref="char:EOLhyphen"/>posed of by the said justices in like manner as aforesaid.</p>
+            <p n="23">23. The said justices shall put in execution all Acts of Par<g ref="char:EOLhyphen"/>liament, made against such persons as shall prophane the Lords Day, and require or levy the penalties therein con<g ref="char:EOLhyphen"/>tained; which penalties so raised, the said justices are to dis<g ref="char:EOLhyphen"/>pose of in like manner as aforesaid.</p>
+            <p n="24">24 Any two or more justices of Peace shall be a sufficient number to decide, in matters occurring betwixt the four Quarter-Sessions in their respective Shires.</p>
+            <p n="25">25. The said justices of peace, as well to Burgh as Land, shall conveen and be present at the Quarter-Sessions of the Shire where the Burgh and land lyes, make their record, and make payment of the Fines intromitted with by them, as justices of Peace of that Shire, to their Collector.</p>
+            <p n="26">26. The said justices are impowred to appoint a sufficient Collector for levying the Fines and penalties which they have power to impose upon any offender, &amp; are to take cau<g ref="char:EOLhyphen"/>tion or Security of him for making due accompt.</p>
+            <p n="27">27. The said justices shall have, during the time of Quar-Sessions, for every day of their abode (so it do not exceed the number of three dayes at the most at one time) allowed for every one of them, Fourty shillings Scots money, daily to be paid and uplifted by the Collectors of the Fines; And al such justices as take the benefit of that allowance, and shall be absent from any Quarter-Sessions in their respective Division, shall incur the Penalties of Fourty pounds Scots money, not having a lawfull excuse, allowed of as such, by the rest of the justices there assembled.</p>
+            <p n="28">
+               <pb n="15" facs="tcp:176078:9"/>28. The Commissioners for Administration of justice to the People in <hi>Scotland,</hi> shall direct generall and summary charges of Horning and Poinding at the instance of the Collector (appointed in every County for ingathering of all Fines and penalties whasoever incurred) upon simple Charges of fifteen dayes, and no suspension shall be gran<g ref="char:EOLhyphen"/>ted but upon consignation of the sums contained in the Sen<g ref="char:EOLhyphen"/>tence, and by finding Caution for payment of the Charges at the modification of the said Commissioners.</p>
+            <p n="29">29. And at what time and whensoever any person shall accuse any person or persons, to be guily of Treason, Mur<g ref="char:EOLhyphen"/>der, or other Felony, Blasphemy, Incest, or any other hey<g ref="char:EOLhyphen"/>nous Crimes, in such case the said Iustice or Iustices shall forthwith cause such person or petsons to be apprehended, and after inquiry made into the case, the said Iustice or Iu<g ref="char:EOLhyphen"/>stices, if they find cause, shall committ the Offender to Pri<g ref="char:EOLhyphen"/>son, or take sufficient Bail, if the case by Law be bailable, And shall take the information of the party accusing upon Oath, and bind him to prosecute, and shall take the Testi<g ref="char:EOLhyphen"/>mony or depositions of the Witnesses likewise upon Oath, &amp; bind them to give in Evidence, And shal also take the ex<g ref="char:EOLhyphen"/>amination of the party accused: All which Recognizances, Informations, Depositions, &amp; Examinatiōs, the said Iustice, or Iustices, shal certify to the next Quarter-Sessions, Assizes or Criminal Courts for Gaol-delivery respectively, to the end the justice may proceed against them according to the Law.</p>
+            <p n="30">30. And forasmuch as there have been divers Acts of Par<g ref="char:EOLhyphen"/>liament made for maintaining of the Poor in every Parish, It is declared, that the said justices shall take care to put the said acts in execution: <hi>viz.</hi> They shall appoint two or more
+<pb n="16" facs="tcp:176078:10"/> persōs of good fame &amp; quality in every parish to Landward to be Overseers for the poor in each Parish aforesaid, and to authorize the said overseers to take due tryall and exami<g ref="char:EOLhyphen"/>nation of the condition and number of such poor, Aged, Sick, Lame and Impotent Inhabitants of the said parish, who (of themselves) have not to maintain them, nor are able to work for their living; as also of all Orphans and other poor Children within the said parish, who are left destitute of all help, And the said Overseers are to list and inroll all such persons, and to provide them such convenient house for their dwelling, either apart or together, as they shall judge requisit; And upon consideration had what their ne<g ref="char:EOLhyphen"/>cessary maintenance will extend to weekly, the said Over<g ref="char:EOLhyphen"/>seers are to call for the Collections of the said Parish, or o<g ref="char:EOLhyphen"/>ther sums appointed for the maintenance of the Poor there of, And the persons who have the said sums in their hands, are hereby required to deliver the same to the said Over<g ref="char:EOLhyphen"/>seers, and their receipts under their hands shall be their suffi<g ref="char:EOLhyphen"/>cient Discharge; which sums so received, the Overseers are to distribute proportionably to the severall poor people a<g ref="char:EOLhyphen"/>foresaid, according as they shall find their necessities to re<g ref="char:EOLhyphen"/>quire: And where the collections and other moneyes afore<g ref="char:EOLhyphen"/>said are found deficient for the maintenance of the said poor the said justices are hereby impowred to give order to the said Parish, to lay a tax or Stint upon the whole Parishioners or Inhabitants, according to the estimation of their estates and conditions, for such a weekly or monthly Contributi<g ref="char:EOLhyphen"/>on as shall be found necessary towards the maintenance of the said poor, and putting the said Orphans to Schools or Callings as they shall Iudge them fittest for, and to take care that it be effectually done: And the said Overseers are
+<pb n="17" facs="tcp:176078:10"/> to demand and receive from al and every person of the said Parish according to the said Stint or Tax; and in case any person or persons shall refuse to make payment of the said proportions, upon representing thereof to the said Iustices, they shall give Order for the distreining and poin<g ref="char:EOLhyphen"/>ding of their Goods for payment thereof And the said O<g ref="char:EOLhyphen"/>verscers are to take due tryall of the good behaviour and carriage of the poore persons listed and inrolled as afore<g ref="char:EOLhyphen"/>said, That if any of them, being so provyded for, do go a<g ref="char:EOLhyphen"/>broad to beg, or otherwise miscarry themselves, or shal re<g ref="char:EOLhyphen"/>fuse, being able, to work any manner of work that they are able to perform, in such cases the said Overseers are to ac<g ref="char:EOLhyphen"/>quaint the said Iustices therwith, who shal appoint such pu<g ref="char:EOLhyphen"/>nishments for the first fault as in their judgements they shall find requisite; &amp; if they shall continue in such miscarriages, they are to be held and reputed as Vagabonds, and so to be proceeded against according to the Law in that case provy<g ref="char:EOLhyphen"/>ded. And to the end that there may be a due and exact per<g ref="char:EOLhyphen"/>formance of the Premisses, The said Iustices are hereby re<g ref="char:EOLhyphen"/>quired to call before them the said Overseers, once in eve<g ref="char:EOLhyphen"/>ry six moneths, or oftner if they shall think it expedient, to an accompt upon Oath of the whole Sums received by thē, and to produce the Roll of the said poor, together with the Stint Roll, and an accompt of what moneys they have re<g ref="char:EOLhyphen"/>ceived any other wayes for the use of the said poor, &amp; after a due consideration of the Charge, together with the dis<g ref="char:EOLhyphen"/>charge thereof, to approve, allow, or disalow the same as they shall be found just. And the said Justices are to take due Tryall and Examination how the sayd Over-seers have discharged their Trust; AND in case of the re<g ref="char:EOLhyphen"/>fusal of any of the said Overseers, nominated and elected
+<pb n="18" facs="tcp:176078:11"/> as aforesaid, to accept the said Office, or having accepted, shall be found negligent therein; or shall refuse or delay to give an accompt of their Intromisions when required, as a<g ref="char:EOLhyphen"/>foresaid, or to deliver what Moneys shall be found resting in their hands, undisposed of at the end of the year, unto such new overseeres as shall be appointed: In such cases the Offenders shall incur the penalty of Twenty pounds scots, to the use of the poor, and to suffer such further Censure as the said justices at their quarter-Sessions, upon considerati<g ref="char:EOLhyphen"/>on had of their fault, shall see meet to impose.</p>
+            <div type="forms">
+               <p>A Forme of VVarrants, Recogniz<g ref="char:EOLhyphen"/>ances, and Mittimuse's, to be used by Justices of the Peace in their respective Counties, as their respe<g ref="char:EOLhyphen"/>ctive Cases shall require.</p>
+               <div type="warrant">
+                  <head>A Generall Warrant for Felonies, or other Misde<g ref="char:EOLhyphen"/>meanours.</head>
+                  <opener>
+                     <dateline>Mid-Lothian.</dateline>
+                  </opener>
+                  <p>THese are in the Name of his Highness the Lord Protector of the Commonwealth of England, Scotland and Ireland, to charge and command you, to give Summons, or to bring before me, or some other of his Highnes justices of the Peace <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> to answer such matters as are al<g ref="char:EOLhyphen"/>ready complained of, and shall be then further objected against
+<pb n="19" facs="tcp:176078:11"/> him concerning <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> And that he come provided with suficient Sureties to be bound as the cause shall require: Hereof fail not.</p>
+                  <closer>
+                     <dateline>Given under my hand <date>the <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> day of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                        </date>
+                     </dateline>
+                  </closer>
+                  <trailer>To the Constables of and to either of them, or to their Deputy or Deputies.</trailer>
+               </div>
+               <div type="warrant">
+                  <head>Warrant for the Peace and Good haviour.</head>
+                  <p>VVHereas <hi>A.</hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> hath <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> taken his corporall Oath before me, That <hi>B.</hi>
+                     <note place="margin">Mid-Lothian.</note>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> hath threatned to burn his house, beat himself, his wife or children, whereupon he is afraied of bodily harm to be done to him, his wife or children, by the said <hi>B.</hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> or by his procurement: These are therefore in the Name of his Highnesse the Lord Protector of the Common-Wealth of Eng<g ref="char:EOLhyphen"/>land, Scotland, and Ireland, to charge and command you to bring the said <hi>B.</hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> before me, or some other of his Highnesse Iustices of Peace of this County, provyded with sufficient Surties, to be bound with him for his appearing at the next Quarter-Sessions to be held for this County or Divi<g ref="char:EOLhyphen"/>sion, then, and there to answere the Premisses; And that in the meane time he shall keepe his said Highnesse Peace, towards his Highnesse and all the people of this Nation, and more especi<g ref="char:EOLhyphen"/>ally towards, <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> which if he shall refuse to do, That then you carry him the said <hi>B.</hi>
+                     <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> to his Highnesse Gaol at burgh of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> their to remain till he shall do the same, or be delivered by due
+<pb n="20" facs="tcp:176078:12"/> course of Law <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </p>
+                  <closer>
+                     <dateline>Given under my Hand and Seale <date>
+                           <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> day of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                        </date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="warrant">
+                  <head>The like Warrant for Good-behaviour, as the case cause shall require.</head>
+                  <head>Recognizance for sureties.</head>
+                  <opener>
+                     <dateline>Mid-Lothian.</dateline>
+                  </opener>
+                  <p>A. B. of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> in the County of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Yeoman, came before me, one of his Highnes justices of Peace in the said County, the <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> day of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> in the year of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and then did acknowledge to owe unto his Highnes the Lord Protector of the Commonwealth of England, Scotland and Ireland, the sum of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> pounds sterling, to be levyed upon his estate reall and personall, to his Highnes use, and likewise C. D. of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and E. F. of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> did each of them acknowledge to owe unto his said Highnes the severall sums of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> pounds sterling a piece, to be levied upon their respective estates both reall and personall, to his Highness use; up<g ref="char:EOLhyphen"/>on condition, neverthelesse, That if A. B. shall personally appear before his Highnes justices of peace, at the next Quarter-Sessions and then answer such matters as shall be objected against them by <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> concerning <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> And in the mean time keep his Highnesse Peace towards his Highness, and all his <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and more especially towards <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> And not depart the Court without Licence; Then the abovesaid Recognizance to be void.</p>
+                  <closer>
+                     <dateline>Taken and acknowledged before <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>
+                        <date>the <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> day of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> in the year of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                        </date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="warrant">
+                  <pb n="21" facs="tcp:176078:12"/>
+                  <p>
+                     <hi>A. B.</hi> of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> in the County of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> Yeoman, came before me, one of his Highness justices of Peace in the said County, the <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> day of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> in the year of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> And <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> then did acknowledge to owe unto his High<g ref="char:EOLhyphen"/>ness the Lord Protector of the Commonwealth of England, Scot<g ref="char:EOLhyphen"/>land, and Ireland, the sum of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> pounds sterling, to be levied upon his estate reall and personall, to his Highness use.</p>
+                  <p>Vpon condition, That if the said <hi>A. B</hi> shall appeare before Highnes Iustices of Peace to be held for this County or Divi<g ref="char:EOLhyphen"/>sion at the next Quarter-Sessions, And then prosecute his High<g ref="char:EOLhyphen"/>nesse Evidence against <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> concerning <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> that then this Recognizance to be void.</p>
+                  <p>Vpon condition, That if <hi>A. B.</hi> of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> do personally appear before his Highnesse Iustices of Peace at the next Quarter-Sessions to be held for this County or Division, and then testifie his knowledge concerning certain misdemea<g ref="char:EOLhyphen"/>nours, whereof <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> stands charged, or is suspected, and not depart the Court without Licence; Then this Recogniz<g ref="char:EOLhyphen"/>ance to be void.</p>
+                  <closer>
+                     <dateline>Taken and acknowledged before <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap>
+                        <date>the <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> day of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> in the year of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                        </date>
+                     </dateline>
+                  </closer>
+               </div>
+               <div type="warrant">
+                  <p>
+                     <hi>I</hi> Send you herewithall the body of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> brought before me this day, and charged with a Felonious ta<g ref="char:EOLhyphen"/>king and carring away Clothe &amp; <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> being the Goods of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> or taking and driving away certain<note place="margin">Mid-Lothan.</note>
+                     <pb n="22" facs="tcp:176078:13"/> Sheep and <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> being the Goods of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> with assault of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> and taking from his person, goods or money <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> or with the wilfull murder of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> or the mortall woun<g ref="char:EOLhyphen"/>ding <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap> or with any other Felony to bee exprest, or the suspicion of it; Him therefore receive into his Highnesse Gaol and Prison in the Burgh of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </p>
+                  <p>And there him s<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>fely keep, untill he shall be thence delivered by due course of Law: Hereof faill not, <hi>&amp;c.</hi>
+                  </p>
+                  <closer>
+                     <dateline>Given under my Hand and Seall <date>the <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> day of <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                        </date>
+                     </dateline>
+                  </closer>
+                  <trailer>To the Keeper of his Highnesse Goale at the Burgh of <gap reason="blank" extent="1 word">
+                        <desc> _____ </desc>
+                     </gap>
+                  </trailer>
+               </div>
+               <div type="declaration_regarding_constables">
+                  <p>And it being found necessary for the better execution of the Office of justices of the peace, that Constables should be ap<g ref="char:EOLhyphen"/>pointed in every parish throughout this nation, It is Decla<g ref="char:EOLhyphen"/>red, That any two justices of peace in each respective Divi<g ref="char:EOLhyphen"/>sion in the severall Counties and Shires, are impowred as<g ref="char:EOLhyphen"/>soon as conveniently they may, to nominate and appoint two, or more, fit persons in every parish according as they shall find needfull, to be Constables, and give them their Oath, for the observing &amp; putting in execution the Instruc<g ref="char:EOLhyphen"/>tions following.</p>
+                  <p>Likewise in great Towns, not being Cities nor free Burghs the said justices are to appoint a number of Constables pro<g ref="char:EOLhyphen"/>portionably to the greatness thereof, all which Constables are to be Nominated and Elected once every year, or oft<g ref="char:EOLhyphen"/>ner if the said justices shall find just occasion; And the ma<g ref="char:EOLhyphen"/>gistrates of all Cities and free Burghs are to elect so many at persons to be constables in the said Cities and Burghs as
+<pb n="23" facs="tcp:176078:13"/> they shall find needfull, having consideration of the qualtie thereof, and to give them their Oath for puting in executi<g ref="char:EOLhyphen"/>on the said Instructions; Which Constables so to be Elec<g ref="char:EOLhyphen"/>ted, are to be changed every year.</p>
+                  <p>And if any of the Constables nominated and elected as a<g ref="char:EOLhyphen"/>foresaid, shall refuse to accept the said Charge, and not take his Oath for dutifull execution thereof, shall be imprisoned and fined at the discretion of the justices of Peace at their next Sitting.</p>
+                  <div type="oath">
+                     <head>The Constables shall take the Oath following.</head>
+                     <p>YOu shall swear, That you shall faithfully and truly dis<g ref="char:EOLhyphen"/>charge your Office of Constable, within the Parish of</p>
+                  </div>
+                  <div type="instructions">
+                     <head>Instructions for CONSTABLES.</head>
+                     <p n="1">1. ALL the Constables, or at least one of every Parish instructed with power to answer for the rest within the said Parish, shall attend at every Quarter-Session, ther to giue information of all such Breaches of the peace, and o<g ref="char:EOLhyphen"/>ther Misdemeanors as have hapned within their Bounds from the preceeding Sessions, and hath come to their know<g ref="char:EOLhyphen"/>ledge, and shall no way hide, cover nor conceall the same, nor any of the Proofs and Evidences which they give for the clearing and proving thereof, and otherwise to give the Bench further satisfaction in any thing wherein they shall be required; and to receive from the said justices at the end of the Session, such Orders and directions as they shall then enjoyn and appoint.</p>
+                     <p n="2">2. Every Constable in their respective Parishes, shall ap<g ref="char:EOLhyphen"/>prehend
+<pb n="24" facs="tcp:176078:14"/> any suspicious persons who are night-walkers, and cannot give a good accompt of themselves, and carry them to the next justices of Peace to find Surety for his good be<g ref="char:EOLhyphen"/>haviour, or otherwise to be commited to Prison; And the said Constable or Constables, shall stay and arrest all Vaga<g ref="char:EOLhyphen"/>bonds, sturdy beggars and <hi>Egyptians,</hi> and carry them before some justice of Peace, who shall take order for their com<g ref="char:EOLhyphen"/>mitting to prison, or other punishment, according to the Sta<g ref="char:EOLhyphen"/>tutes of Parliament.</p>
+                     <p n="3">3. Every constable in their respective Parishes, shall arrest all Idle persons whom they know to have no means to live upon and will betake themselves to any labour, trade or oc<g ref="char:EOLhyphen"/>cupation, and shall carry them before some justice of Peace, who, after examination, shall either commit them to Prison or take Surety of them for their appearance at the next Quarter-Sessions.</p>
+                     <p n="4">4. All Constables in their respective Parishes, shall ap<g ref="char:EOLhyphen"/>prehend every person or persons, that shall be guilty and culpable of Slaughter, Murder, Theft, or any other capitall Crime whatsoever, and shall require his Neighbours to a<g ref="char:EOLhyphen"/>sist for safe conveying of such person or persons to the next justice of peace, who shall commit him, or them, or take Surety, according to the Instructions given to the justices of peace in such like cases.</p>
+                     <p n="5">5. If any person or persons, shall refuse or delay to assist the said constable or Constables, in executing his or their Offices, such persons so refusing or delaying, shall be im<g ref="char:EOLhyphen"/>prisoned, or otherwise punished by the said justices at their Sessions.</p>
+                     <p n="6">6. A Constable shall arrest any person, not being in his Highness Service, who shall be found wearing Haugbuts, or
+<pb n="25" facs="tcp:176078:14"/> Guns, or pistols of any sort, and shall carry them before some justice of peace, who is either to take surety for their Appearance the next Quarter-Session, or commit them Prisoners till they do the same; unless they be licenced from the Councill, or the Commander in cheif, or some impow<g ref="char:EOLhyphen"/>red from them, or him, to give such Licences.</p>
+                     <p n="7">7. Vpon the Appearence of any Fray or stir between par<g ref="char:EOLhyphen"/>ties, the Constable shall require the assistance of his neigh<g ref="char:EOLhyphen"/>bours for sundring of the Parties; and if there be any harme done to the Constable or any of the assistants by them who made the Affray, they shall be punished by the justices at the next Session.</p>
+                     <p n="8">8. When any person or persons have, made an affray, and then flee to an House, the Constable, or Constables, may follow to the house; and if the doors be shut, he shall require the master, or the then keeper of the house, to open the Doors; which if he or she shall refuse, he shall take notice of the said master or keeper of the house, and require witness thereon; and albeit the Delinquent shall flee further with<g ref="char:EOLhyphen"/>out the bounds of the Constables charge, yet may the Constable follow and apprehend him in a fresh persuit, and require concurrence of the Country to that effect.</p>
+                     <p n="9">9. The Constables in every Parish shall execute all such Precepts and warrants as they shall from time to time re<g ref="char:EOLhyphen"/>ceive from the justices of the peace.</p>
+                     <p n="10">10. And that the said Constables may have reasonable sa<g ref="char:EOLhyphen"/>tisfaction for their travels, It is Declared, That the justices shall allow unto them out of the Fines aforesaid, as in their discretion they shall think their labour and diligence doeth deserve, not exceeding Twelve pence <hi>per diem</hi> for each day they shall attend the Sessions, or be imployed in carrying
+<pb n="26" facs="tcp:176078:15"/> Delinquents to prison.</p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <div type="order">
+            <opener>
+               <dateline>
+                  <date>Moonday the Twelfth of NOVEMBER, 1655.</date> At His Highnesse Council in EDINBURGH,</dateline>
+            </opener>
+            <p>ORdered, That these Instructions for Constables be forth-with Printed and Published.</p>
+            <closer>
+               <signed>EMANUEL DOWNING, Cl. of the Council.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
